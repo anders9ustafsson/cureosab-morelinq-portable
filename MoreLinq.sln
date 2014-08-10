@@ -20,6 +20,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuspecs", "Nuspecs", "{55D09D94-E557-4383-B5DB-9F15D43DAC72}"
 	ProjectSection(SolutionItems) = preProject
 		pkg\morelinq.nuspec = pkg\morelinq.nuspec
+		pkg\Morelinq.Portable.nuspec = pkg\Morelinq.Portable.nuspec
 		pkg\MoreLinq.Source.MoreEnumerable.Acquire.nuspec = pkg\MoreLinq.Source.MoreEnumerable.Acquire.nuspec
 		pkg\MoreLinq.Source.MoreEnumerable.AssertCount.nuspec = pkg\MoreLinq.Source.MoreEnumerable.AssertCount.nuspec
 		pkg\MoreLinq.Source.MoreEnumerable.Batch.nuspec = pkg\MoreLinq.Source.MoreEnumerable.Batch.nuspec
